@@ -1,4 +1,4 @@
-package io.zipcoder.fundamental.program.structures.exercise2;
+package io.zipcoder.fundamental.program.structures.normalizeAngle;
 
 
 import org.junit.Assert;

@@ -1,4 +1,4 @@
-package io.zipcoder.fundamental.program.structures.exercise1;
+package io.zipcoder.fundamental.program.structures.integerPrinter;
 
 
 public class IntegerPrinter {
